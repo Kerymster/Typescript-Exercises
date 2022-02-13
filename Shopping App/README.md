@@ -1,10 +1,10 @@
 # Shopping App
 
-This project is created to show fundamentals of REDUX.
+This project is created to show fundamentals of TYPESCRIPT.
 
 ## Libraries
 
-The React-based app that I've created is also have examples of Routing, Async Operations and Redux.
+The React-based app that I've created is also have examples of Routing, Async Operations and Routing.
 
 ### Visualization
 
